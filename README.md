@@ -257,39 +257,6 @@ The final customer segmentation dataset was exported as CSV.
 
 ---
 
-## Project Structure
-
-```
-Customer-Segmentation/
-
-│
-
-├── data/
-│ └── online_retail_II.xlsx
-│
-├── notebook/
-│ └── Customer_Segmentation.ipynb
-│
-├── models/
-│ ├── scaler.pkl
-│ ├── pca.pkl
-│ └── kmeans.pkl
-│
-├── outputs/
-│ ├── Customer_Features.csv
-│ ├── Customer_Segments_Final.csv
-│ ├── Elbow_Method.png
-│ ├── Silhouette_Score.png
-│ ├── PCA_Clusters.png
-│ └── Business_Insights.png
-│
-├── README.md
-│
-└── requirements.txt
-```
-
----
-
 ## Key Outcomes
 
 - Successfully transformed transactional retail data into customer-level behavioral features.
